@@ -1,7 +1,1 @@
-# Changelog
-
-## 1.0.0
-
-* Teslamate 1.31.1
-
-[Full Changelog](https://github.com/teslamate-org/teslamate/blob/master/CHANGELOG.md)
+**Full Changelog**: https://github.com/Cino86/ha-addon-teslamate/compare/v1.1.0...v1.1.1
